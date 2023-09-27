@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with the
+  schedule of lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ FILES
 Waves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec01))
+({{% resource_link 4a2ebfcf-a9ec-158f-1a66-1499268c9843 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Waves
 Slowly varying media: ray theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec02))
+({{% resource_link 87ad4794-a2b4-5100-1531-6e0b85d190a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Slowly varying media: ray theory
 Surface gravity waves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec03))
+({{% resource_link fca533a5-edb5-f5d3-e975-ec4c2e63019f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Surface gravity waves
 Energy equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec04))
+({{% resource_link fcef6f0d-cf0b-c54a-80cd-f6a2d1d4f08b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Energy equation
 Initial value problem — homogeneous medium
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec05))
+({{% resource_link d0abd659-7cf9-62a9-d1e1-09b48a4074e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Initial value problem — homogeneous medium
 Internal waves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec06))
+({{% resource_link 6676514b-3948-89b7-6df5-d97d571e8eb2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Internal waves
 WKB theory for internal gravity waves — non rotating case
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec07))
+({{% resource_link 5d4ce06c-659e-f2bb-fa6e-92388bc4bb41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ WKB theory for internal gravity waves — non rotating case
 Internal waves modified by rotation — unbounded fluid
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec08))
+({{% resource_link 8a41ca80-1f82-1cde-beff-02cbf09fc1ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Internal waves modified by rotation — unbounded fluid
 The oceanic wave guide: normal modes of a stratified, rotating fluid
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec09))
+({{% resource_link 5167b041-551f-c878-220b-7301189fb5dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ The oceanic wave guide: normal modes of a stratified, rotating fluid
 Unbounded domain — non rotating reflection from a solid boundary
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec10))
+({{% resource_link 61231c35-bd9d-dab1-0291-55fda0cc07df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Unbounded domain — non rotating reflection from a solid boundary
 Laplace tidal equations on the sphere
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec11))
+({{% resource_link 9684358a-07b8-4d85-55c8-10a97e6c6cca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Laplace tidal equations on the sphere
 Shallow water equations with rotation — Poincaré waves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec12))
+({{% resource_link b480aaaa-3a6d-ff99-9df6-d5007b5b73f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Shallow water equations with rotation — Poincaré waves
 The Kelvin wave
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_802s08_lec13))
+({{% resource_link 8fa4bc2f-93e1-f919-f11f-f1dbc5ed2522 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
